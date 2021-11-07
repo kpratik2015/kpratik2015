@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/kpratik2015"><img src="https://api.daily.dev/devcards/2199af8e34384b11b96718f109c0bb28.png?r=df2" width="400" alt="Pratik Kataria's Dev Card"/></a>
+<a href="https://app.daily.dev/kpratik2015"><img src="https://github.com/kpratik2015/kpratik2015/blob/master/devcard.svg" width="400" alt="Pratik Kataria's Dev Card"/></a>
 
 <!--
 **kpratik2015/kpratik2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
