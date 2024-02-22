@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/kpratik2015"><img src="https://api.daily.dev/devcards/v2/jIpU6sv6m.png?type=default&r=3qm" width="356" alt="Pratik Kataria's Dev Card"/></a>
+<a href="https://app.daily.dev/kpratik2015"><img src="./devcard.png" width="356" alt="Pratik Kataria's Dev Card"/></a>
 
 ---
 
