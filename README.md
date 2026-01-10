@@ -5,7 +5,7 @@
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=kpratik2015)
+![Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
 
